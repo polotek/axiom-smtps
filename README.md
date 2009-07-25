@@ -4,7 +4,7 @@ A helper class with settings for allowing you to send emails securely over smtps
 
 ## Installation
 
-There is just one class representing the GMail transport.  Copy gmail.js into any Global prototype folder in your app.
+There is just one class representing the GMail transport.  Copy smtps.js into any Global prototype folder in your app.
 
 There are also several properties that need to be set.  The properties in `app.properties` can be copied into the properties file of your app. Make sure to update the username and password.
 
